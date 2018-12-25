@@ -5,3 +5,8 @@ The goal of this group project is to segment customers of Sun Country Airlines b
 # Packages
 dplyr;
 ade4;
+lubridate
+
+# Tools assisted analyzing
+Tableau
+https://public.tableau.com/profile/dennie8151#!/vizhome/TableauSunCountryExploratory_0/Dashboard1
